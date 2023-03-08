@@ -31,3 +31,7 @@ def main():
             exit()
         else:
             print("Invalid menu option.")
+
+
+if __name__ == '__main__':
+    main()
