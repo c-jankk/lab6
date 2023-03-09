@@ -40,8 +40,8 @@ def main():
             print(f'The encoded password is {encoded_pw}, and the original password is {original_pw}')
         if menu_option == 3:
             exit()
-        #else:
-        #   print("Invalid menu option.")
+        else:
+           print("Invalid menu option.")
 
 
 if __name__ == '__main__':
